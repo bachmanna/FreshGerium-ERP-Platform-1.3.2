@@ -1,10 +1,10 @@
-# Freshdesk
+# FreshGerium
 
-Freshdesk is smart ERP solution to manage your business. you can keep track of your accounts, customers, products, orders, invoices, expense, purchase, report, return, damage, sales, service, stock, suppliers and more. It's easy-to-use for keeping all kinds of business records 🚀
+FreshGerium is smart ERP solution to manage your business. you can keep track of your accounts, customers, products, orders, invoices, expense, purchase, report, return, damage, sales, service, stock, suppliers and more. It's easy-to-use for keeping all kinds of business records 🚀
 
 https://user-images.githubusercontent.com/62835101/188616020-d935cd4f-5e9b-4e2c-b633-d275e5bd8daf.mp4
 
-###### Don't forget to leave a [star ⭐!](https://github.com/hossainchisty/Freshdesk-CRM-Platform/stargazers)
+###### Don't forget to leave a [star ⭐!](https://github.com/bachmmana89/FreshGerium-ERP-Platform/stargazers)
 
 ### 📸 Screenshot
 <details>
@@ -13,31 +13,31 @@ https://user-images.githubusercontent.com/62835101/188616020-d935cd4f-5e9b-4e2c-
  </summary>
 
  ### 💻 Customer Management 
- <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/customer/customer-management.png">
+ <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/customer/customer-management.png">
 
  ### 🛒 Purchase Management 
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/purchase/manage-purchase.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/purchase/manage-purchase.png">
  
  ### 🤕 Damage Management 
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/damage/damage-management.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/damage/damage-management.png">
  
  ### 💰 Expense Management 
-<img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/expense/expense-management.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/expense/expense-management.png">
 
  ### 🧾 PDF Report (Automaticly Generated)
-  <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/expense/expense-pdf-viewer.png">
+  <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/expense/expense-pdf-viewer.png">
 
   ### 🖋 Excel Sheet (Automaticly Generated)
-  <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/expense/expense-excel-sheet.png">
+  <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/expense/expense-excel-sheet.png">
 
  ### 📨 Sale Management 
- <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/sale/sales-management.png">
+ <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/sale/sales-management.png">
 
  ### 📥 Sale's Due Collection 
- <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/sale/sales-due-collection.png">
+ <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/sale/sales-due-collection.png">
 
  ### 🏢 Company Profile 
-  <img src="https://github.com/hossainchisty/Freshdesk-CRM-Platform/blob/master/static/Mockup/comapny/company-profile.png">
+  <img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/comapny/company-profile.png">
 
 ### ⚙ Settings <br/>
  
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/62835101/188616020-d935cd4f-5e9b-4e2c-
 <p align="center">
   Privacy and Security
 </p>
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/settings/settings-privacy-and-security.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/settings/settings-privacy-and-security.png">
 </td> 
 
  <table width="100%"> 
@@ -56,10 +56,10 @@ https://user-images.githubusercontent.com/62835101/188616020-d935cd4f-5e9b-4e2c-
 <td width="50%">
 &nbsp; 
 <p align="center">
-  Delete your Freshdesk Account <br>
- You can delete your Freshdesk Account at any time. If you change your mind, you might not be able to recover it.
+  Delete your FreshGerium Account <br>
+ You can delete your FreshGerium Account at any time. If you change your mind, you might not be able to recover it.
 </p>
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/settings/account-delete.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/settings/account-delete.png">
 </td> 
  
 <br/>
@@ -73,14 +73,14 @@ https://user-images.githubusercontent.com/62835101/188616020-d935cd4f-5e9b-4e2c-
 <p align="center">
   Change Password
 </p>
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/settings/change-password.png">
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/settings/change-password.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
 Forget password?
 </p>
-<img src="https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/static/Mockup/settings/forget-password.png">  
+<img src="https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/static/Mockup/settings/forget-password.png">  
 </td>
 </table>
  
@@ -92,7 +92,7 @@ Forget password?
 
 ### 🗂 Tech Stack
 
-Below is a list of technologies we use at Freshdesk.
+Below is a list of technologies we use at FreshGerium.
 
 *  🎨 **Frontend:**  SB Admin 2 v4.1.3.
 * 🏗 **Backend:** Python, Django, DRF
@@ -107,10 +107,10 @@ Below is a list of technologies we use at Freshdesk.
 <!-- ## 🏛 Architecture
 
 <p align="center">
-    <img src="assets/architecture/overview.svg" alt="Freshdesk architecture" width="700">
+    <img src="assets/architecture/overview.svg" alt="FreshGerium architecture" width="700">
 </p> -->
 
-### **Why Freshdesk ERP Platform?**
+### **Why FreshGerium ERP Platform?**
 
 ✅ Activity Dashboard 
 
@@ -151,7 +151,7 @@ Below is a list of technologies we use at Freshdesk.
 
 ✅ PDF Report (Automaticly Generated)
 
-✅ Accessing & Downloading your Freshdesh Information 
+✅ Accessing & Downloading your FreshGerium Information 
 <br>
 <sub>Get a copy of your data. We'll email you a link to a file with your information. it may take up to 48 hours to collect this information and send it to you.</sup>
 
@@ -159,7 +159,7 @@ Below is a list of technologies we use at Freshdesk.
 
 ✅ ... And More.
 
-***For any feature/improvement request ping me here hossain.chisty11@gmail.com***
+***For any feature/improvement request ping me here bachmmana89@gmail.com***
 ### **What's new◽** 
 Daily & Monthly Sales Reports
 
@@ -200,6 +200,4 @@ Human Resource Management System Software (HRMS) Module
 </details>
 
 ## 📑 License
-Licensed under [MIT](https://github.com/hossainchisty/Freshdesk-ERP-Platform/blob/master/LICENCE).
-
-
+Licensed under [MIT](https://github.com/bachmmana89/FreshGerium-ERP-Platform/blob/master/LICENCE).
